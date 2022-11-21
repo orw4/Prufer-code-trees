@@ -6,7 +6,7 @@ class Tree:
         self.vertices = vertices
         self.edges = edges
 
-    # the vertices are a list of vertices (as 0-n numbers)
+    # the vertices are a list of vertices (represented by 0-n numbers)
     # the edges are a list of lists, each list has 2 vertices
 
     # creates a list of vertex degrees
